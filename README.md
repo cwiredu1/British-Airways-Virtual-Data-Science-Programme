@@ -18,3 +18,9 @@ With your predictive model, it is important to interpret the results in order to
 
 - creating a classification model to predict customer buying behaviour
 - preparing a powerpoint representation to highlight our insights and analysis
+
+# Summary
+British Airways Data Science Job Simulation on Forage
+- Completed a simulation focussing on how data science is a critical component of British Airways success
+- Scraped and analysed customer review data to uncover findings
+- Built a predictive model to understand factors that influence buying behaviour
